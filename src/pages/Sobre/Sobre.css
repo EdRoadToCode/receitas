@@ -1,0 +1,26 @@
+#title{
+    font-weight: 600;
+}
+#title_h1{
+    font-size: 1.9pc;
+    font-weight: 600;
+}
+#img{
+    width: 35pc;
+}
+.txt{
+    max-width: 34pc;
+    text-align: justify;
+}
+@media (max-width: 768px) {
+#img{
+    width: 23pc;
+}
+
+}
+.containerSobre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3%;
+}

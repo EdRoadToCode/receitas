@@ -1,0 +1,32 @@
+#mtsts{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 1pc;
+}
+
+#teste{
+    text-align: center;
+    background-color: snow;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    padding: 2pc;
+}
+
+li img{
+    
+} 
+
+
+.imageRecipe{
+    max-width: 50pc;
+    max-height: 10pc;
+
+} 
+#search{
+    border-radius: 1pc;
+    width:20pc;
+    margin-bottom: 1pc;
+    margin-top: 0.5pc;
+}
