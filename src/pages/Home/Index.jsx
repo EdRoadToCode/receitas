@@ -44,7 +44,7 @@ function Home() {
                                    <img src={imagem1} alt="" srcset="" />
                                 </div>
                                 <div class="content-right">
-                                    <h3>Rafazel</h3>
+                                    <h3>Torta de Frango</h3>
                                     <p>Uma torta recheada com frango desfiado e temperos especiais, perfeita para...</p>
                                 </div>
                             </li>
