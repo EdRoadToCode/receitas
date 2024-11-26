@@ -4,6 +4,7 @@
     flex-direction: row;
     align-items: center;
     gap: 1pc;
+    flex-wrap: wrap; /* Permite quebrar a linha */
 }
 
 #teste{
